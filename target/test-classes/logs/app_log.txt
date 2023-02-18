@@ -1,0 +1,10 @@
+INFO    2023-02-18 09:24:05,903 [main] Nop Commer Test Report  - Test Execution Started
+INFO    2023-02-18 09:24:05,941 [main] Nop Commer Test Report  - Browser Initialised
+INFO    2023-02-18 09:24:05,941 [main] Nop Commer Test Report  - Browser Initialised
+INFO    2023-02-18 09:24:27,615 [main] Nop Commer Test Report  - Chrome Browser Initialised
+INFO    2023-02-18 09:24:28,143 [main] Nop Commer Test Report  - Browser Opened
+INFO    2023-02-18 09:24:28,144 [main] Nop Commer Test Report  - Browser Opened
+INFO    2023-02-18 09:24:31,241 [main] Nop Commer Test Report  - test Started
+INFO    2023-02-18 09:24:35,992 [main] Nop Commer Test Report  - Quiting the browser
+INFO    2023-02-18 09:24:35,997 [main] Nop Commer Test Report  - Test Execution stopped
+INFO    2023-02-18 09:24:37,665 [main] Nop Commer Test Report  - Result locked in the report
